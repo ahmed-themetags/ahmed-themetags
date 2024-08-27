@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmned
+- 👋 Hi, I’m Ahmed
 - 👀 I’m interested in laravel and Vue and node js
 - - 🌱 I’m currently learning ...aws
 - 💞️ I’m looking to collaborate on ...
