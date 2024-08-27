@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed
-- 👀 I’m interested in laravel and Vue and node js
+- 👀 I’m interested in laravel Advanced Feature, Vue and node js
 - - 🌱 I’m currently learning ...aws
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
